@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+/.idea
+spring-mvc-app1.iml
+.gitignore
